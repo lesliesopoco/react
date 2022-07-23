@@ -11,7 +11,7 @@ const CampsiteDetail = ({campsite}) => {
                 </CardBody>
             </Card>
         </Col>
-    )
-}
+    );
+};
 
 export default CampsiteDetail;

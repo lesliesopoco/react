@@ -13,6 +13,6 @@ const CampsiteCard = (props) => {
             </CardImgOverlay>            
         </Card>
     );
-;}
+};
 
 export default CampsiteCard;
