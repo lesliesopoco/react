@@ -8,7 +8,6 @@ const Comment = ({comment}) => {
             {commentText}
             <br/>
             {rating}/5 starts -- {author}, {formatDate(date)}
-
         </p>
     );
 };
