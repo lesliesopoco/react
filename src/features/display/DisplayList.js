@@ -19,7 +19,7 @@ const DisplayList = () => {
                     )
                     }
                 )
-            };
+            }
         </Row>
     );
 };
